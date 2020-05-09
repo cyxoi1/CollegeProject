@@ -1,0 +1,11 @@
+D:\Repos\OfficeSupplies\OfficeSupplies\bin\Debug\OfficeSupplies.exe.config
+D:\Repos\OfficeSupplies\OfficeSupplies\bin\Debug\OfficeSupplies.exe
+D:\Repos\OfficeSupplies\OfficeSupplies\bin\Debug\OfficeSupplies.pdb
+D:\Repos\OfficeSupplies\OfficeSupplies\obj\Debug\OfficeSupplies.csprojAssemblyReference.cache
+D:\Repos\OfficeSupplies\OfficeSupplies\obj\Debug\OfficeSupplies.LoginForm.resources
+D:\Repos\OfficeSupplies\OfficeSupplies\obj\Debug\OfficeSupplies.Menu.resources
+D:\Repos\OfficeSupplies\OfficeSupplies\obj\Debug\OfficeSupplies.Properties.Resources.resources
+D:\Repos\OfficeSupplies\OfficeSupplies\obj\Debug\OfficeSupplies.csproj.GenerateResource.cache
+D:\Repos\OfficeSupplies\OfficeSupplies\obj\Debug\OfficeSupplies.csproj.CoreCompileInputs.cache
+D:\Repos\OfficeSupplies\OfficeSupplies\obj\Debug\OfficeSupplies.exe
+D:\Repos\OfficeSupplies\OfficeSupplies\obj\Debug\OfficeSupplies.pdb
